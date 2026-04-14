@@ -1,3 +1,10 @@
+> **ARCHIVED AND READ-ONLY**
+> 
+> This repository is no longer actively maintained. All future development, updates, and issue tracking have moved to a new location. 
+>
+> The active repository can now be found here: https://github.com/fis-asp/goclip 
+
+
 <div align="center">
 <p align="center">
   <img src="assets/logo/app.png" alt="Logo" width="200">
